@@ -68,3 +68,6 @@
   .delete {
     float:right;
   }
+ .container2{
+     display:flex;
+}
